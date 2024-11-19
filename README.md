@@ -1,1 +1,5 @@
 # machinelearning3
+
+
+
+MACHINE LEARNING CODING TASK 3-4 ULAS TUZER 
